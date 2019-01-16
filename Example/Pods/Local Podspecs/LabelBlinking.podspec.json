@@ -1,0 +1,22 @@
+{
+  "name": "LabelBlinking",
+  "version": "0.1.0",
+  "summary": "A short description of LabelBlinking.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/rajarahul12/LabelBlinking",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "rajarahul12": "maddula.rajarahul@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/rajarahul12/LabelBlinking.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "LabelBlinking/Classes/**/*"
+}
